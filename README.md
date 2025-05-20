@@ -1,4 +1,4 @@
-# Operativos
+# Sistemas Operativos
 
 Este repositorio contiene todos los talleres, ejercicios y actividades desarrolladas durante el curso de Sistemas Operativos.
 
